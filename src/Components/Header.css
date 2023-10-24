@@ -1,0 +1,37 @@
+Header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.helpIcon {
+    height: 26px;
+    width: 26px;
+    margin: 1rem auto 0;
+    padding: 0 5px;
+}
+
+.shopIcon {
+    height: 26px;
+    width: 26px;
+    margin: 1rem auto 0;
+    padding: 0 5px;
+}
+
+.userIcon {
+    height: 26px;
+    width: 26px;
+    margin: 1rem auto 0;
+    padding: 0 5px;
+}
+
+.cartIcon {
+    height: 26px;
+    width: 26px;
+    margin: 1rem auto 0;
+    padding: 0 5px;
+}
+
+.menuIcons {
+
+}
