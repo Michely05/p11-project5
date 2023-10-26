@@ -2,36 +2,41 @@ Header {
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    margin-top: 15px;
+    margin-left: 15px;
 }
 
 .helpIcon {
     height: 26px;
     width: 26px;
     margin: 1rem auto 0;
-    padding: 0 5px;
+    padding: 0 15px;
 }
 
 .shopIcon {
     height: 26px;
     width: 26px;
     margin: 1rem auto 0;
-    padding: 0 5px;
+    padding: 0 15px;
 }
 
 .userIcon {
     height: 26px;
     width: 26px;
     margin: 1rem auto 0;
-    padding: 0 5px;
+    padding: 0 15px;
 }
 
 .cartIcon {
     height: 26px;
     width: 26px;
     margin: 1rem auto 0;
-    padding: 0 5px;
+    padding: 0 15px;
 }
 
 .menuIcons {
-
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-right: 20px;
 }
