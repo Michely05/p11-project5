@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../fonts/RobotoCondensed-VariableFont_wght.ttf') format('truetype');
+}
+
 h2 {
     font-family: Roboto, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 26px;
@@ -15,24 +20,64 @@ h2 {
     display: flex;
     overflow-x: auto;
     white-space: nowrap;
-    padding: 50px;
+    padding: 0 5px 5px 5px;
     margin-left: 360px;
     margin-right: 360px;
 }
 
 .card {
-    width: 150px;
+    width: 300px;
+    height: 300px;
     margin-right: 10px;
-    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .cardContent {
+    position: relative;
+    display: inline-block;
     padding: 10px;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2), -2px -2px 4px rgba(0, 0, 0, 0.2);
 }
 
 .imageItem {
-    width: 100px;
+    width: 180px;
     height: auto;
     object-fit: cover;
+    margin: 0 40px;
+}
+
+#brand {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto Condensed';
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: none;
+}
+
+#name {
+    font-size: 11px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto Condensed';
+}
+
+#price {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    display: flex;
+    align-items: center;
+    width: 47px;
+    font-size: 15px;
+    font-family: 'Roboto Condensed';
+    font-weight: bold;
+    background-color: yellow;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: none;
 }

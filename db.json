@@ -2,6 +2,7 @@
     "items" : [
         {
             "id": 1,
+            "marca": "DOMYOS",
             "nombre": "Camiseta de fútbol para mujer",
             "precio": 29.99,
             "categoria": "ropa mujer",
@@ -10,6 +11,7 @@
         {
             "id": 2,
             "nombre": "Shorts de running para hombre",
+            "marca": "ADIDAS",
             "precio": 24.95,
             "categoria": "ropa hombre",
             "imagen": "https://contents.mediadecathlon.com/p2413670/k$dca6bc1914d398e18c15a4f261389e52/sq/short-running-hombre-kiprun-split-amarillo.jpg?format=auto&f=800x0"
@@ -17,6 +19,7 @@
         {
             "id": 3,
             "nombre": "Zapatillas para niños",
+            "marca": "ADIDAS",
             "precio": 39.99,
             "categoria": "ropa infantil",
             "imagen": "https://contents.mediadecathlon.com/p1730118/k$3796541e7ba0549568097041e2fc8b24/sq/zapatillas-deportivas-adidas-advantage-ninos-blanco-del-28-al-34.jpg?format=auto&f=800x0"
@@ -24,6 +27,7 @@
         {
             "id": 4,
             "nombre": "Balón de fútbol",
+            "marca": "KYPSTA",
             "precio": 14.99,
             "categoria": "equipamiento",
             "imagen": "https://contents.mediadecathlon.com/p2154127/k$2799c00bbec1a4ad63c8b1af80083172/sq/balon-de-futbol-hibrido-fifa-basic-f500-talla-5-blanco-amarillo.jpg?format=auto&f=800x0"
@@ -31,6 +35,7 @@
         {
             "id": 5,
             "nombre": "Chaqueta deportiva para mujer",
+            "marca": "QUECHUA",
             "precio": 49.99,
             "categoria": "ropa mujer",
             "imagen": "https://contents.mediadecathlon.com/m3987422/k$19bd3fb1104526d1ea9f6d4d9947b529/sq/chaqueta-urbana-y-deportiva-para-mujer-alder-w-izas.jpg?format=auto&f=800x0"
@@ -38,6 +43,7 @@
         {
             "id": 6,
             "nombre": "Camiseta de baloncesto para hombre",
+            "marca": "BERTELL",
             "precio": 34.95,
             "categoria": "ropa hombre",
             "imagen": "https://contents.mediadecathlon.com/p2423631/k$9857f55ffe5fab02881a688bf47e615e/sq/camiseta-de-baloncesto-sin-mangas-unisex-ts500-rojo.jpg?format=auto&f=800x0"
@@ -45,6 +51,7 @@
         {
             "id": 7,
             "nombre": "Botas de fútbol para niños",
+            "marca": "PUMA",
             "precio": 29.99,
             "categoria": "ropa infantil",
             "imagen": "https://contents.mediadecathlon.com/m10773176/k$1e40bb34f7f526d173e5f7f8c50248d0/sq/botas-de-futbol-ninos-future-play-mg-puma-azul.jpg?format=auto&f=800x0"
@@ -52,13 +59,15 @@
         {
             "id": 8,
             "nombre": "Cinta de correr",
-            "precio": 699.99,
+            "marca": "CECOTEC",
+            "precio": 99.99,
             "categoria": "equipamiento",
             "imagen": "https://contents.mediadecathlon.com/p2332850/k$19c2898171f7fdb9245f3c11c6f11532/sq/cinta-de-correr-plegable-t900d-18kmh-50143cm.jpg?format=auto&f=800x0"
         },
         {
             "id": 9,
             "nombre": "Camiseta de baloncesto para mujer",
+            "marca": "PUMA",
             "precio": 29.99,
             "categoria": "ropa mujer",
             "imagen": "https://contents.mediadecathlon.com/m13845949/k$a2adc3d5061d9caa57bb25361a624660/sq/camiseta-manga-corta-kelme-camiseta-fed-turquia-baloncesto-unisex-blanco.jpg?format=auto&f=800x0"
@@ -66,6 +75,7 @@
         {
             "id": 10,
             "nombre": "Pantalones deportivos para hombre",
+            "marca": "PUMA",
             "precio": 34.95,
             "categoria": "ropa hombre",
             "imagen": "https://contents.mediadecathlon.com/m14076950/k$daf5f6014c3452720bf0e293351fd0d5/sq/pantalones-deportivos-hombre-puma-active-tricot-azul.jpg?format=auto&f=800x0"
@@ -73,6 +83,7 @@
         {
             "id": 11,
             "nombre": "Chanclas para niños",
+            "marca": "HABAIJI",
             "precio": 39.99,
             "categoria": "ropa infantil",
             "imagen": "https://contents.mediadecathlon.com/p2131922/k$2e5db6dd146b57596df7b36fd22303e3/sq/chanclas-piscina-nino-pala-azul.jpg?format=auto&f=800x0"
@@ -80,6 +91,7 @@
         {
             "id": 12,
             "nombre": "Balón de rugby",
+            "marca": "OFFLOAD",
             "precio": 14.99,
             "categoria": "equipamiento",
             "imagen": "https://contents.mediadecathlon.com/p2333079/k$3484336dcc61f1814bf058c7fcc78c77/sq/balon-de-rugby-talla-5-espana.jpg?format=auto&f=800x0"
@@ -87,6 +99,7 @@
         {
             "id": 13,
             "nombre": "Sudadera deportiva para mujer",
+            "marca": "QUECHUA",
             "precio": 49.99,
             "categoria": "ropa mujer",
             "imagen": "https://contents.mediadecathlon.com/p2310522/k$3e6952e9d74ca152727a526e584c422a/sq/sudadera-polar-de-montana-y-trekking-con-capucha-mujer-quechua-mh100-hoodie.jpg?format=auto&f=800x0"
@@ -94,6 +107,7 @@
         {
             "id": 14,
             "nombre": "Gorra de hombre",
+            "marca": "ARTENGO",
             "precio": 24.95,
             "categoria": "ropa hombre",
             "imagen": "https://contents.mediadecathlon.com/p2209864/k$14e0d4632e9ee72462569397798a0342/sq/gorra-de-tenis-artengo-tc-100-negro.jpg?format=auto&f=800x0"
@@ -101,6 +115,7 @@
         {
             "id": 15,
             "nombre": "Polo",
+            "marca": "QUECHUA",
             "precio": 29.99,
             "categoria": "ropa infantil",
             "imagen": "https://contents.mediadecathlon.com/p2239391/k$403a4b7a6deb22486706413528c3d94f/sq/polo-de-golf-manga-corta-hombre-mw500-caqui.jpg?format=auto&f=800x0"
@@ -108,6 +123,7 @@
         {
             "id": 16,
             "nombre": "Mancuernas",
+            "marca": "DOMYOS",
             "precio": 699.99,
             "categoria": "equipamiento",
             "imagen": "https://contents.mediadecathlon.com/p2174810/k$70487cd16fe29f0648f2aa94c0702df0/sq/mancuerna-10-kg-hexagonal-dumbbell-musculacion-cross-training-corength.jpg?format=auto&f=800x0"
@@ -115,6 +131,7 @@
         {
             "id": 17,
             "nombre": "Conjunto deportivo para mujer",
+            "marca": "DOMYOS",
             "precio": 54.99,
             "categoria": "ropa mujer",
             "imagen": "https://contents.mediadecathlon.com/p2174810/k$70487cd16fe29f0648f2aa94c0702df0/sq/mancuerna-10-kg-hexagonal-dumbbell-musculacion-cross-training-corength.jpg?format=auto&f=800x0"
@@ -122,6 +139,7 @@
         {
             "id": 18,
             "nombre": "Sudadera para hombre",
+            "marca": "QUECHUA",
             "precio": 19.95,
             "categoria": "ropa hombre",
             "imagen": "https://contents.mediadecathlon.com/p2073099/k$0dd6e26b582cf8b9509d70c258c6aa17/sq/sudadera-chaqueta-fitness-con-capucha-hombre-domyos-100-negro.jpg?format=auto&f=800x0"
@@ -129,6 +147,7 @@
         {
             "id": 19,
             "nombre": "Sudadera para niños",
+            "marca": "DOMYOS",
             "precio": 27.99,
             "categoria": "ropa infantil",
             "imagen": "https://contents.mediadecathlon.com/p2244780/k$1d550679d93e99c9e74ca547e62734a1/sq/sudadera-ninos-calida-capucha.jpg?format=auto&f=800x0"
@@ -136,6 +155,7 @@
         {
             "id": 20,
             "nombre": "Pelota de tenis",
+            "marca": "ARTENGO",
             "precio": 7.99,
             "categoria": "equipamiento",
             "imagen": "https://contents.mediadecathlon.com/p2405556/k$c2348b7b252c207cc28420fae03ca6ac/sq/pelota-de-tenis-polivalente-artengo-confort-x4.jpg?format=auto&f=800x0"
@@ -143,6 +163,7 @@
         {
             "id": 21,
             "nombre": "Camiseta deportiva para mujer",
+            "marca": "PUMA",
             "precio": 22.99,
             "categoria": "ropa mujer",
             "imagen": "https://contents.mediadecathlon.com/m12075535/k$29afdb6f2947bace86448599b10e1e5e/sq/camiseta-deportiva-tecnica-de-manga-corta-para-mujer-izas-creus-w.jpg?format=auto&f=800x0"

@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../fonts/RobotoCondensed-VariableFont_wght.ttf') format('truetype');
+}
+
+Footer {
+    background-color: #EFEFEF;
+    width: 100%;
+    position: absolute;
+}
+
+#footerColumns {
+    display: flex;
+    justify-content: flex-start;
+    margin: 40px 360px;
+    gap: 100px;
+}
+
+h3 {
+    font-family: 'Roboto Condensed';
+    font-style: italic;
+    color: #1a2a34;
+    font-size: 14px;
+}
+
+.fLinks {
+    font-family: 'Roboto Condensed';
+    color: #898989;
+    font-size: 12px;
+}
